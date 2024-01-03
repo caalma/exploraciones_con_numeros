@@ -1,2 +1,4 @@
-# exploraciones_con_numeros
-Búsquedas y algoritmos para explorar cualidades numéricas.
+# Exploraciones con números
+
+
+Compilado de algoritmos para explorar cualidades numéricas y matemáticas.
